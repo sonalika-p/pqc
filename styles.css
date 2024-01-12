@@ -11,6 +11,10 @@ header {
     padding: 1.5rem 0;
 }
 
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
 nav ul {
     display: flex;
     justify-content: space-around;
